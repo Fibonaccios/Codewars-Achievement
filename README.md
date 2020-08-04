@@ -1,5 +1,7 @@
 # CodeWars-Katas
 Solutions to <a href="http://www.codewars.com">CodeWars</a> problems aka(Katas).
+
+Repository is set to private as to protect the CodeWars community.
 <br>
 Language Used: <b>Python</b>
 
