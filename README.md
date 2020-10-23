@@ -23,7 +23,7 @@ to slow down a bit.</p>
 I will make it there eventually ^_^</p>
 
 Apologies in advance for some "noobish" solutions, many of them need to be refined since
-I got better in coding. :)
+I got better at coding. :)
 </p>
 
 <a href="https://github.com/Codewars/codewars.com/wiki/About-Codewars">From</a> Codewars wiki:<br>
