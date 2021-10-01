@@ -14,15 +14,15 @@ Language Used: <b>Python</b>
 
 <br>
 
-<p>I learned how to code while using the CodeWars platform, where you can clearly see
+<p>Learned how to code while using the CodeWars platform, where you can clearly see
 my progress in my solutions.</p>
-<p>Managed to reach <b>2Kyu</b> in just under 5 months but due to university I had
+<p>Managed to reach <b>2Kyu</b> in just under 5 months but due to university responsibilities I had
 to slow down a bit.</p>
-<p> Reached <b>1Kyu</b> in about ~10 months :) </p>
+<p>Reached <b>1Kyu</b> in about ~10 months</p>
 <p>My main goal is to reach 1 Dan (Master) level in python which will definitely take some time but
-I will make it there eventually ^_^</p>
+I will make it there eventually.</p>
 
-Apologies in advance for some "noobish" solutions, many of them need to be refined since
+Apologies in advance for some naive solutions, many of them need to be refined since
 I got better at coding. :)
 </p>
 
